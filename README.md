@@ -24,6 +24,7 @@ My name is **Thanh Tung**. I'm a developer from Vietnam 🇻🇳
 <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind"/>&nbsp;&nbsp;
 <br/><br/>
 
 ## 🗄️ Databases
