@@ -4,12 +4,13 @@
 
 </div>
 
-My name is **Thanh Tung**. I'm a developer from Vietnam 🇻🇳
+My name is **Thanh Tung**.
 
 -  Currently working with **Laravel** & **Vue.js**
 -  Learning more about **.NET ecosystem**
 -  Ask me about **Laravel, Vue.js, REST APIs**
 -  Interested in **Web Development** & **VPS Deployment**
+-  Experienced in developing custom **WordPress themes, plugins**
 
 ---
 
