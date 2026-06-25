@@ -13,7 +13,7 @@ My name is **Thanh Tung**. I'm a developer from Vietnam 🇻🇳
 
 ---
 
-##  Programming Languages & Frameworks
+###  Programming Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel"/>&nbsp;&nbsp;
@@ -26,20 +26,20 @@ My name is **Thanh Tung**. I'm a developer from Vietnam 🇻🇳
 <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind"/>&nbsp;&nbsp;
 
-##  Databases
+###  Databases
 
 <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" height="45" alt="SQL Server"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite"/>&nbsp;&nbsp;
 
-##  Desktop
+###  Desktop
 
 <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET / WPF / XAML"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=windows" height="45" alt="Windows"/>
 
-##  DevOps & Deployment
+###  DevOps & Deployment
 
 <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>&nbsp;&nbsp;
@@ -47,6 +47,6 @@ My name is **Thanh Tung**. I'm a developer from Vietnam 🇻🇳
 <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=linux" height="45" alt="VPS / Linux"/>
 
-##  CMS
+###  CMS
 
 <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="WordPress"/>
